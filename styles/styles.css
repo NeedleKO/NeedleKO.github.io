@@ -55,3 +55,23 @@ li {
 a {
     letter-spacing: 0.5px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+.hungry_gif {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+} 
+   
